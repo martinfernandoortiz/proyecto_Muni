@@ -134,3 +134,6 @@
           </se:PointSymbolizer>
         </se:Rule>
       </se:FeatureTypeStyle>
+    </UserStyle>
+  </NamedLayer>
+</StyledLayerDescriptor>

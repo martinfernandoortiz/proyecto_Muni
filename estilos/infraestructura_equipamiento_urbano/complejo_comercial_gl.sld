@@ -135,3 +135,5 @@
         </se:Rule>
       </se:FeatureTypeStyle>
     </UserStyle>
+  </NamedLayer>
+</StyledLayerDescriptor>
