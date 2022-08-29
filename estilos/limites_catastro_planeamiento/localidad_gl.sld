@@ -28,7 +28,7 @@
             <se:Graphic>
               <!--Plain SVG fallback, no parameters-->
               <se:ExternalGraphic>
-                <se:OnlineResource xlink:type="simple" xlink:href="localidad.svg"/>
+                <se:OnlineResource xlink:type="simple" xlink:href="localidad_gl.svg"/>
                 <se:Format>image/svg+xml</se:Format>
               </se:ExternalGraphic>
               <!--Well known marker fallback-->
@@ -62,7 +62,7 @@
             <se:Graphic>
              <!--Plain SVG fallback, no parameters-->
               <se:ExternalGraphic>
-                <se:OnlineResource xlink:type="simple" xlink:href="localidad.svg"/>
+                <se:OnlineResource xlink:type="simple" xlink:href="localidad_gl.svg"/>
                 <se:Format>image/svg+xml</se:Format>
               </se:ExternalGraphic>
               <!--Well known marker fallback-->
@@ -95,7 +95,7 @@
             <se:Graphic>
                             <!--Plain SVG fallback, no parameters-->
               <se:ExternalGraphic>
-                <se:OnlineResource xlink:type="simple" xlink:href="localidad.svg"/>
+                <se:OnlineResource xlink:type="simple" xlink:href="localidad_gl.svg"/>
                 <se:Format>image/svg+xml</se:Format>
               </se:ExternalGraphic>
               <!--Well known marker fallback-->
