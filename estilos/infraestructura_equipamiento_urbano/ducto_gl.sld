@@ -9,7 +9,7 @@
           <se:Name>Single symbol</se:Name>
           <se:LineSymbolizer>
             <se:Stroke>
-              <se:SvgParameter name="stroke">#e7cebd</se:SvgParameter>
+              <se:SvgParameter name="stroke">#ffffff</se:SvgParameter>
               <se:SvgParameter name="stroke-width">2</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
@@ -19,10 +19,10 @@
           <se:LineSymbolizer>
             <se:Stroke>
               <se:SvgParameter name="stroke">#cc6421</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">1.5</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
-              <se:SvgParameter name="stroke-dasharray">3 3</se:SvgParameter>
+              <se:SvgParameter name="stroke-dasharray">3 5</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
         </se:Rule>
