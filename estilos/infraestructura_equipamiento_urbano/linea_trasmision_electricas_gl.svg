@@ -5,7 +5,13 @@
 	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
 <g id="Capa_2" display="none">
 </g>
-<g id="Capa_1_1_">
-	<line fill="none" stroke="#EBC32E" stroke-miterlimit="10" x1="4.914" y1="19.086" x2="19.086" y2="4.914"/>
+<line fill="none" stroke="#CC6421" stroke-width="2" stroke-miterlimit="10" x1="4.454" y1="18.987" x2="18.706" y2="4.336"/>
+<g>
+	<g>
+		<line fill="none" stroke="#681717" stroke-width="2" stroke-miterlimit="10" x1="5.19" y1="19.231" x2="5.887" y2="18.515"/>
+		
+			<line fill="none" stroke="#681717" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="1.9316,1.9316" x1="7.234" y1="17.13" x2="17.335" y2="6.745"/>
+		<line fill="none" stroke="#681717" stroke-width="2" stroke-miterlimit="10" x1="18.009" y1="6.053" x2="18.706" y2="5.336"/>
+	</g>
 </g>
 </svg>
