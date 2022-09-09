@@ -13,10 +13,10 @@
               <se:SvgParameter name="fill-opacity">0.25</se:SvgParameter>
             </se:Fill>
             <se:Stroke>
-              <se:SvgParameter name="stroke">#666666</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1</se:SvgParameter>
+              <se:SvgParameter name="stroke">#00a4ff</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">0.8</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
-              <se:SvgParameter name="stroke-dasharray">4 2</se:SvgParameter>
+              <se:SvgParameter name="stroke-dasharray">3 2.5</se:SvgParameter>
             </se:Stroke>
           </se:PolygonSymbolizer>
         </se:Rule>
