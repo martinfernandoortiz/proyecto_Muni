@@ -9,8 +9,8 @@
           <se:Name>Ferrocarril</se:Name>
           <se:LineSymbolizer>
             <se:Stroke>
-              <se:SvgParameter name="stroke">#000000</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1</se:SvgParameter>
+              <se:SvgParameter name="stroke">#528F8F</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">0.6</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">round</se:SvgParameter>
             </se:Stroke>
@@ -22,14 +22,14 @@
                   <se:Mark>
                     <se:WellKnownName>line</se:WellKnownName>
                     <se:Fill>
-                      <se:SvgParameter name="fill">#ff0000</se:SvgParameter>
+                      <se:SvgParameter name="fill">#528F8F</se:SvgParameter>
                     </se:Fill>
                     <se:Stroke>
-                      <se:SvgParameter name="stroke">#000000</se:SvgParameter>
+                      <se:SvgParameter name="stroke">#528F8F</se:SvgParameter>
                       <se:SvgParameter name="stroke-width">1</se:SvgParameter>
                     </se:Stroke>
                   </se:Mark>
-                  <se:Size>4</se:Size>
+                  <se:Size>3</se:Size>
                 </se:Graphic>
                 <se:Gap>
                   <ogc:Literal>11</ogc:Literal>
