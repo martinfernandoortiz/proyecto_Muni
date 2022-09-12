@@ -5,17 +5,18 @@
     <UserStyle>
       <se:Name>Vial RP</se:Name>
       <se:FeatureTypeStyle>
+        <!-- zoom 3 a 10 -->
         <se:Rule>
           <se:Name>RP</se:Name>
           <se:Description>
-            <se:Title>Objeto 50.000.000 a 2.000.001</se:Title>
+            <se:Title>Vial provincial z3 a z10</se:Title>
           </se:Description>
-          <se:MinScaleDenominator>2000001</se:MinScaleDenominator>
-          <se:MaxScaleDenominator>50000000</se:MaxScaleDenominator>
+          <se:MinScaleDenominator>400000</se:MinScaleDenominator>
+          <se:MaxScaleDenominator>600000000</se:MaxScaleDenominator>
           <se:LineSymbolizer>
             <se:Stroke>
               <se:SvgParameter name="stroke">#994f1a</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1.5</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">0.5</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">butt</se:SvgParameter>
             </se:Stroke>
@@ -23,18 +24,20 @@
           <se:LineSymbolizer>
             <se:Stroke>
               <se:SvgParameter name="stroke">#ee621c</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">0.2</se:SvgParameter>
               <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
         </se:Rule>
+        <!-- desde zoom 11 -->        
         <se:Rule>
           <se:Name>RP</se:Name>
           <se:Description>
-            <se:Title>Objeto 2.000.000 a 0</se:Title>
+            <se:Title>Vial provincial desde z11</se:Title>
           </se:Description>
-          <se:MaxScaleDenominator>2000000</se:MaxScaleDenominator>
+          <se:MinScaleDenominator>0</se:MinScaleDenominator>
+          <se:MaxScaleDenominator>350000</se:MaxScaleDenominator>
           <se:LineSymbolizer>
             <se:Stroke>
               <se:SvgParameter name="stroke">#994f1a</se:SvgParameter>
