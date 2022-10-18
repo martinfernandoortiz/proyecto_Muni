@@ -48,45 +48,6 @@
                         </se:Stroke>
                     </se:PolygonSymbolizer>
                 </se:Rule>
-                <se:Rule>
-                    <se:MaxScaleDenominator>8000</se:MaxScaleDenominator>
-                    <se:TextSymbolizer>
-                        <se:Geometry>
-                            <ogc:Function name="centroid">
-                                <ogc:PropertyName>geom</ogc:PropertyName>
-                            </ogc:Function>
-                        </se:Geometry>
-                        <se:Label>
-                            <ogc:PropertyName>name</ogc:PropertyName>
-                        </se:Label>
-                        <se:Font>
-                            <se:SvgParameter name="font-family">Arial</se:SvgParameter>
-                            <se:SvgParameter name="font-size">11</se:SvgParameter>
-                            <se:SvgParameter name="font-style">normal</se:SvgParameter>
-                        </se:Font>
-                        <se:LabelPlacement>
-                            <se:PointPlacement>
-                                <se:AnchorPoint>
-                                    <se:AnchorPointX>0.5</se:AnchorPointX>
-                                    <se:AnchorPointY>0.5</se:AnchorPointY>
-                                </se:AnchorPoint>
-                            </se:PointPlacement>
-                        </se:LabelPlacement>
-                        <se:Halo>
-                            <se:Radius>0.5</se:Radius>
-                            <se:Fill>
-                                <se:SvgParameter name="fill">#fffff2</se:SvgParameter>
-                            </se:Fill>
-                        </se:Halo>
-                        <se:Fill>
-                            <se:SvgParameter name="fill">#076d0f</se:SvgParameter>
-                        </se:Fill>
-                        <se:VendorOption name="group">true</se:VendorOption>
-                        <se:VendorOption name="autoWrap">60</se:VendorOption>
-                        <se:VendorOption name="goodnessOfFit">0.0</se:VendorOption>
-                      	<se:VendorOption name="charSpacing">1</se:VendorOption>
-                    </se:TextSymbolizer>
-                </se:Rule>
             </se:FeatureTypeStyle>
         </UserStyle>
     </NamedLayer>
